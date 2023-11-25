@@ -1,0 +1,8 @@
+2 /bin/cal
+1 /bin/cat
+1 /bin/mc
+1 /bin/mc
+10 /bin/cal
+5 /bin/cal
+7 /bin/ls
+11 /bin/mc

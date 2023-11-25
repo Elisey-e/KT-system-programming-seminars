@@ -1,0 +1,7 @@
+ls
+mkdir test_
+ls
+rm -rf test_
+ls
+pwd
+echo "jcjdk"
